@@ -40,10 +40,24 @@ function Index() {
           were building together.
         </p>
 
+        <p className="mt-6 max-w-xl text-pretty text-base leading-relaxed text-muted-foreground">
+          Bargains is falling down with activity, and there's no revival on the
+          horizon.
+        </p>
+
         <div className="mt-12 h-px w-24 bg-border" />
 
         <p className="mt-8 text-sm text-muted-foreground">
-          For RetailPro opportunities, please visit RetailPro directly.
+          For RetailPro opportunities, visit{" "}
+          <a
+            href="https://retailpro.space"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium text-foreground underline underline-offset-4 transition-colors hover:text-primary"
+          >
+            retailpro.space
+          </a>
+          .
         </p>
       </div>
 
