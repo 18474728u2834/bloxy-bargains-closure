@@ -66,6 +66,16 @@ function Index() {
           <span className="font-medium text-foreground">Archery</span> &{" "}
           <span className="font-medium text-foreground">Horizonz</span>.
         </p>
+
+        <p className="mt-6 text-sm text-muted-foreground">
+          Contact:{" "}
+          <a
+            href="mailto:Novavoff12@gmail.com"
+            className="font-medium text-foreground underline underline-offset-4 transition-colors hover:text-primary"
+          >
+            Novavoff12@gmail.com
+          </a>
+        </p>
       </div>
 
       <footer className="absolute bottom-6 left-0 right-0 text-center text-xs text-muted-foreground">
