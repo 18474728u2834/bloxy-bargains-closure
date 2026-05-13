@@ -59,6 +59,13 @@ function Index() {
           </a>
           .
         </p>
+
+        <p className="mt-4 max-w-xl text-pretty text-sm leading-relaxed text-muted-foreground">
+          RetailPro will continue under new management:{" "}
+          <span className="font-medium text-foreground">Novavoff</span>,{" "}
+          <span className="font-medium text-foreground">Archery</span> &{" "}
+          <span className="font-medium text-foreground">Horizonz</span>.
+        </p>
       </div>
 
       <footer className="absolute bottom-6 left-0 right-0 text-center text-xs text-muted-foreground">
